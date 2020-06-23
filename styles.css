@@ -1,0 +1,35 @@
+.theGitSessionsCrew__cardsListContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+}
+
+.theGitSessionsCrew__cardsHeader {
+    width: 100%;
+}
+
+.theGitSessionsCrew__cardsHeaderTitle {
+    text-align: center;
+}
+
+.theGitSessionsCrew__cardItemContainer {
+    width: 200px;
+    display: block;
+    height: 300px;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+}
+
+.theGitSessionsCrew__cardItemAvatar {
+    margin: auto;
+    max-width: 150px;
+    max-height: 150px;
+    display: block;
+}
+
+.theGitSessionsCrew__cardItemContainer:hover {
+
+}
